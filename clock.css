@@ -1,0 +1,32 @@
+/* This below is rules for my enitre page style */
+body { 
+  background-color: black;
+  color: #81adc8;
+  text-align: center;
+}
+/*  Some custom styling to my wording  */
+h3{
+  padding-top:10px;
+  font-size: 60px;
+  font-family: 'Luckiest Guy', cursive;
+}
+
+h5{
+  padding-bottom: 20px;
+}
+
+#myclockdisplay {
+  color:#cd4631 ;
+  font-size: 50px;
+  font-family: "Fjalla One", sans-serif;
+  padding: 10px;
+}
+
+.giffy{
+  margin: 5%;
+  border: solid;
+  border-width: 4px;
+  border-radius: 5px;
+  border-color: #cd4631  ;
+  border-spacing: 10px;
+}
